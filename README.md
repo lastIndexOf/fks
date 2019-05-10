@@ -1,5 +1,9 @@
-Frontend Knowledge Structure
+前端知识构成
 ========
+
+## 往下看的兄弟，[这里是一个我个人搭的小说网站](http://www.ibiquwu.com)
+
+
 ## 项目起源
 还记得@jayli 的这幅前端知识结构图么。
 
